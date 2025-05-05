@@ -1,0 +1,17 @@
+train: C:/Users/User/Documents/GitHub/CNN_EPI/data/images/train
+val: C:/Users/User/Documents/GitHub/CNN_EPI/data/images/val
+test: C:/Users/User/Documents/GitHub/CNN_EPI/data/images/test
+
+nc: 11
+names:
+  - Capacete
+  - Luvas
+  - Colete
+  - Botas
+  - Oculos
+  - Nada
+  - Funcionario
+  - sem_capacete
+  - sem_oculos
+  - sem_luvas
+  - sem_botas
